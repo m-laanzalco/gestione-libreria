@@ -6,6 +6,7 @@ A robust, professional-grade Expense Tracker built with Java. This project demon
 This application allows users to manage financial expenses efficiently. It is designed to be scalable, maintainable, and decoupled, making it a perfect example of professional software engineering practices.
 
 ## Technical Architecture
+
 This project implements the **3-Tier Architecture** pattern to ensure separation of concerns:
 
 1. **Presentation Layer (`main`):** Handles user interaction. It has no knowledge of how data is stored.
