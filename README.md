@@ -32,4 +32,4 @@ This project implements the **3-Tier Architecture** pattern to ensure separation
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/m-laanzalco/gestione-libreria.git](https://github.com/m-laanzalco/gestione-libreria.git)
+   git clone https://github.com/m-laanzalco/gestione-libreria.git
